@@ -1,0 +1,15 @@
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\bin\Debug\net6.0\zad2vol2.exe
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\bin\Debug\net6.0\zad2vol2.deps.json
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\bin\Debug\net6.0\zad2vol2.runtimeconfig.json
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\bin\Debug\net6.0\zad2vol2.dll
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\bin\Debug\net6.0\zad2vol2.pdb
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\zad2vol2.csproj.AssemblyReference.cache
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\zad2vol2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\zad2vol2.AssemblyInfoInputs.cache
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\zad2vol2.AssemblyInfo.cs
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\zad2vol2.csproj.CoreCompileInputs.cache
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\zad2vol2.dll
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\refint\zad2vol2.dll
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\zad2vol2.pdb
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\zad2vol2.genruntimeconfig.cache
+C:\projekty\programowanieObiektowe\zad2vol2\zad2vol2\obj\Debug\net6.0\ref\zad2vol2.dll

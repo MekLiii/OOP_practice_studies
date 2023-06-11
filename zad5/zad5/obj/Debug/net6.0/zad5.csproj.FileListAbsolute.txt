@@ -1,0 +1,15 @@
+C:\projekty\programowanieObiektowe\zad5\zad5\bin\Debug\net6.0\zad5.exe
+C:\projekty\programowanieObiektowe\zad5\zad5\bin\Debug\net6.0\zad5.deps.json
+C:\projekty\programowanieObiektowe\zad5\zad5\bin\Debug\net6.0\zad5.runtimeconfig.json
+C:\projekty\programowanieObiektowe\zad5\zad5\bin\Debug\net6.0\zad5.dll
+C:\projekty\programowanieObiektowe\zad5\zad5\bin\Debug\net6.0\zad5.pdb
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\zad5.csproj.AssemblyReference.cache
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\zad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\zad5.AssemblyInfoInputs.cache
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\zad5.AssemblyInfo.cs
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\zad5.csproj.CoreCompileInputs.cache
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\zad5.dll
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\refint\zad5.dll
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\zad5.pdb
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\zad5.genruntimeconfig.cache
+C:\projekty\programowanieObiektowe\zad5\zad5\obj\Debug\net6.0\ref\zad5.dll
