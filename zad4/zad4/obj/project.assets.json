@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\thecz\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Plumsoftware\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projekty\\programowanieObiektowe\\zad4\\zad4\\zad4.csproj",
+      "projectUniqueName": "C:\\projekty\\nauka\\studia\\zad4\\zad4\\zad4.csproj",
       "projectName": "zad4",
-      "projectPath": "C:\\projekty\\programowanieObiektowe\\zad4\\zad4\\zad4.csproj",
-      "packagesPath": "C:\\Users\\thecz\\.nuget\\packages\\",
-      "outputPath": "C:\\projekty\\programowanieObiektowe\\zad4\\zad4\\obj\\",
+      "projectPath": "C:\\projekty\\nauka\\studia\\zad4\\zad4\\zad4.csproj",
+      "packagesPath": "C:\\Users\\Plumsoftware\\.nuget\\packages\\",
+      "outputPath": "C:\\projekty\\nauka\\studia\\zad4\\zad4\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\thecz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Plumsoftware\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

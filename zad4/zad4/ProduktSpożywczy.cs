@@ -73,13 +73,5 @@ namespace zad4
             }
 
         }
-        public decimal CenaNetto
-        {
-            get => cenaNetto;
-            set
-            {
-                cenaNetto = value;
-            }
-        }
     }
 }
